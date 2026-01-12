@@ -55,7 +55,7 @@ The database is stored in `BBDD_plantas.txt`:
 
 ## Versión en Español
 
-Nuestros profesores de programación en Python, Daniel Báscones García (UCM) junto a Carlos González Calvo (UCM) nos proponeN el siguiente problema:
+Nuestros profesores de programación en Python, Daniel Báscones García (UCM) junto a Carlos González Calvo (UCM) nos proponen el siguiente problema:
 
 Un laboratorio de botánica quiere organizar su colección de plantas en una base de datos (BBDD) a fin de proporcionar información adecuada a sus investigadores. No quiere utilizar ninguna BBDD existente y nos propone desarrollarla desde cero:
 
