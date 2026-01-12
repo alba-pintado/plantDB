@@ -1,0 +1,240 @@
+{
+    "Ranunculus hederaceus (Ranúnculo de hiedra)": {
+        "tamaño": 40.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "León",
+            "Zamora"
+        ]
+    },
+    "Baldellia ranunculoides (Llantén de agua)": {
+        "tamaño": 50.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Salamanca",
+            "Cáceres"
+        ]
+    },
+    "Acorus calamus (Cálamo aromático)": {
+        "tamaño": 60.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Girona",
+            "Navarra"
+        ]
+    },
+    "Callitriche stagnalis (Estrella de agua)": {
+        "tamaño": 20.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Madrid",
+            "Toledo"
+        ]
+    },
+    "Ceratophyllum demersum (Cola de zorro acuática)": {
+        "tamaño": 90.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Valencia",
+            "Albacete"
+        ]
+    },
+    "Chara vulgaris (Alga estrellada)": {
+        "tamaño": 50.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Cuenca",
+            "Teruel"
+        ]
+    },
+    "Alisma plantago-aquatica (Llantén de agua mayor)": {
+        "tamaño": 90.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Sevilla",
+            "Córdoba"
+        ]
+    },
+    "Azolla filiculoides (Helecho de agua)": {
+        "tamaño": 6.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Badajoz",
+            "Huelva"
+        ]
+    },
+    "Nymphaea alba (Nenúfar blanco)": {
+        "tamaño": 150.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Sevilla",
+            "Huelva"
+        ]
+    },
+    "Atractylis cancellata (Cardo corredor)": {
+        "tamaño": 80.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Granada",
+            "Córdoba"
+        ]
+    },
+    "Typha latifolia (Espadaña)": {
+        "tamaño": 250.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Sevilla",
+            "Huelva"
+        ]
+    },
+    "Phragmites australis (Carrizo)": {
+        "tamaño": 300.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Cádiz",
+            "Tarragona"
+        ]
+    },
+    "Orchis collina (Orquídea de colina)": {
+        "tamaño": 40.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Murcia",
+            "Almería"
+        ]
+    },
+    "Quercus ilex (Encina)": {
+        "tamaño": 2500.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Sevilla",
+            "Córdoba",
+            "Cáceres"
+        ]
+    },
+    "Quercus suber (Alcornoque)": {
+        "tamaño": 2000.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Cádiz",
+            "Huelva",
+            "Gerona"
+        ]
+    },
+    "Pinus pinea (Pino piñonero)": {
+        "tamaño": 3000.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Huelva",
+            "Valladolid",
+            "Madrid"
+        ]
+    },
+    "Pinus halepensis (Pino carrasco)": {
+        "tamaño": 2000.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Valencia",
+            "Alicante",
+            "Murcia"
+        ]
+    },
+    "Quercus robur (Roble común)": {
+        "tamaño": 4000.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Lugo",
+            "Asturias",
+            "Cantabria"
+        ]
+    },
+    "Fagus sylvatica (Haya)": {
+        "tamaño": 4000.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Navarra",
+            "Guipúzcoa"
+        ]
+    },
+    "Olea europaea (Olivo)": {
+        "tamaño": 1500.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Jaén",
+            "Córdoba",
+            "Granada"
+        ]
+    },
+    "Ceratonia siliqua (Algarrobo)": {
+        "tamaño": 1000.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Alicante",
+            "Málaga",
+            "Islas Baleares"
+        ]
+    },
+    "Arbutus unedo (Madroño)": {
+        "tamaño": 1000.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Madrid",
+            "Cáceres"
+        ]
+    },
+    "Cistus ladanifer (Jara pringosa)": {
+        "tamaño": 200.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Badajoz",
+            "Toledo"
+        ]
+    },
+    "Lavandula angustifolia (Lavanda)": {
+        "tamaño": 100.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Guadalajara",
+            "Cuenca"
+        ]
+    },
+    "Rosmarinus officinalis (Romero)": {
+        "tamaño": 150.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Tarragona",
+            "Almería"
+        ]
+    },
+    "Juniperus communis (Enebro)": {
+        "tamaño": 600.0,
+        "hábitat": "terrestre",
+        "provincias": [
+            "Huesca",
+            "Burgos"
+        ]
+    },
+    "Alnus glutinosa (Aliso)": {
+        "tamaño": 3000.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Lugo",
+            "Asturias"
+        ]
+    },
+    "Juncus effusus (Junco)": {
+        "tamaño": 150.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Navarra",
+            "Palencia"
+        ]
+    },
+    "Posidonia oceanica (Posidonia)": {
+        "tamaño": 100.0,
+        "hábitat": "acuático",
+        "provincias": [
+            "Islas Baleares"
+        ]
+    }
+}
