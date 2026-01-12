@@ -46,7 +46,7 @@ The database is stored in `BBDD_plantas.txt`:
 - Data is saved back to the file on exit.
 
 ### How to Use
-1. Open the Jupyter Notebook (`PINTADO_RODRIGO_ALBA-Práctica_final_BIO.ipynb`).
+1. Open the Jupyter Notebook (`PINTADO_RODRIGO_ALBA-Práctica_final_BIO1.ipynb`).
 2. Run all cells sequentially.
 3. Use the menu to interact with the database.
 4. Your data will be saved automatically when exiting.
@@ -100,7 +100,7 @@ La base de datos se almacena en `BBDD_plantas.txt`:
 - Los datos se guardan al salir del programa.
 
 ### Cómo usar
-1. Abrir el notebook de Jupyter (`PINTADO_RODRIGO_ALBA-Práctica_final_BIO.ipynb`).
+1. Abrir el notebook de Jupyter (`PINTADO_RODRIGO_ALBA-Práctica_final_BIO1.ipynb`).
 2. Ejecutar todas las celdas en orden.
 3. Usar el menú para interactuar con la base de datos.
 4. Los datos se guardan automáticamente al salir.
